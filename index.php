@@ -1,0 +1,1 @@
+<a href="/authorize.php?appid=1000&redirect=https%3A%2F%2Foauth.hamm.cn%2Fredirect.php">Oauth2授权</a>
