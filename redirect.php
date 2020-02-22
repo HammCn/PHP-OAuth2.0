@@ -24,9 +24,4 @@ $access_token = $obj->access_token;
 
 
 $ret = file_get_contents("https://oauth.hamm.cn/getUserInfo.php?access_token={$access_token}");
-// $obj = json_decode($ret);
 print_r($ret);die;
-if($obj->code!=200){
-    header("Location:/index.php");
-    die;
-}
