@@ -1,11 +1,11 @@
 # php_oAuth2
 
-<img src="https://svg.hamm.cn?key=gitee&value=star&project=hamm/oAuth2">
-<img src="https://svg.hamm.cn?key=gitee&value=fork&project=hamm/oAuth2">
-<img src="https://svg.hamm.cn?key=gitee&value=watch&project=hamm/oAuth2">
-<img src="https://svg.hamm.cn?key=gitee&value=commit&project=hamm/oAuth2">
-<img src="https://svg.hamm.cn/?key=数据库&value=MySQL5.5+"/>
-<img src="https://svg.hamm.cn/?key=运行时&value=PHP7.1+"/>
+<img src="https://svg.hamm.cn/gitee.svg?type=star&user=hamm&project=oAuth2">
+<img src="https://svg.hamm.cn/gitee.svg?type=fork&user=hamm&project=oAuth2">
+<img src="https://svg.hamm.cn/gitee.svg?type=watch&user=hamm&project=oAuth2">
+<img src="https://svg.hamm.cn/gitee.svg?type=commit&user=hamm&project=oAuth2">
+<img src="https://svg.hamm.cn/badge.svg?key=数据库&value=MySQL5.5+"/>
+<img src="https://svg.hamm.cn/badge.svg?key=运行时&value=PHP7.1+"/>
 
 #### 介绍
 纯原生PHP代码实现Oauth2.0的业务逻辑
